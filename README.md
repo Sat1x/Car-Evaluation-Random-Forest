@@ -22,7 +22,8 @@ I wanted to apply ensemble learning to a real-world categorical dataset, focusin
 - The script automatically downloads the [UCI Car Evaluation dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/car/car.data).
 
 ## Setup
-
+-Clone the repository
+-Install libraries:
 ```bash
 pip install pandas numpy seaborn matplotlib scikit-learn
 ```
@@ -30,7 +31,7 @@ pip install pandas numpy seaborn matplotlib scikit-learn
 ## Usage
 
 ```bash
-python "github projects/car_eval_random_forest/car_evaluation_rf.py"
+python "Car-Evaluation-Random-Forest/car_evaluation_rf.py"
 ```
 
 ## Outputs
